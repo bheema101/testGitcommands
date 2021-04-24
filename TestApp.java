@@ -7,6 +7,7 @@ public class TestApp {
 			
 			int a =100;
 			int b = 200;
+			omt c = 300;
 			b = a++ + b++;
 			
 			if(b %2 == 0) {
