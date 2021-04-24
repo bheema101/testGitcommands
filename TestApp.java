@@ -6,8 +6,8 @@ public class TestApp {
         public static void main(String[] args) {
 			
 			int a =100;
-			int b = 200;
-			omt d = 300;
+			int c = 200;
+			omt z = 300;
 			b = a++ + b++;
 			
 			if(b %2 == 0) {
